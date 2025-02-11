@@ -1,22 +1,2 @@
-## SCHEMA
-
-# users
-    - name
-    - email
-    - password
-    - bio
-    - image
-# posts
-    - title
-    - image
-    - filter
-    - user_id
-# comments
-    - body
-    - user_id
-    - post_id
-# follows
-    - follower_id
-    - followee_id
-# likes
-    - ? 
+# instasharkawy
+Simple web app like instagram you can make account and add photos with filters do likes and comments
